@@ -13,7 +13,7 @@ role = "Assistant professor"
 organizations = [ { name = "Department of Theory of Law and State, Faculty of Law and Administration, University of Warsaw", url = "http://inopip.wpia.uw.edu.pl/katedra-filozofii-prawa-i-nauki-o-panstwie/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests are socio-legal sciences, labour market and labour law, and access to justice."
+bio = "Assistant professor at the Faculty of Law and Administration, University of Warsaw"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -32,9 +32,9 @@ interests = [
   year = 2018
 
 [[education.courses]]
-  course = "MA in Law cum lude"
-  institution = "University of Warsaw"
-  year = 2013
+  course = "MA in French and European commercial lawn Law cum lude"
+  institution = "<a href="http://droit.univ-poitiers.fr/">University of Poitiers</a>
+  year = 2014
 
 [[education.courses]]
   course = "MA in history cum laude"
@@ -54,22 +54,22 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "#contact"  # For a direct email link, use "mailto:muszynskikarol@gmail.com".
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://twitter.com/XXXX"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.pl/citations?user=XfAbr8kAAAAJ&hl=pl"
 
 [[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  icon = "academia"
+  icon_pack = "ai"
+  link = "https://uw.academia.edu/KarolMuszynski"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -80,6 +80,6 @@ interests = [
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently an assistant professor at the Faculty of Law and Administration, University of Warsaw. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My CV is here. 
