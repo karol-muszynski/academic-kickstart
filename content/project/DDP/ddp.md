@@ -44,8 +44,6 @@ url_code = ""
   focal_point = ""
 +++
 
-The research is sponsored by National Science Centre.
-
 The project intends to identify the barriers to using law in doing business experienced by Polish small and medium enterprises. The research will provide a diagnosis of justiciable problems experienced by SMEs, patterns of their resolution, and explain why SMEs do not use the law in all circumstances where this is feasible. The project will therefore have both an exploratory and explanatory aspect.
 
 PI: [Jan Winczorek PhD](www.janwin.info), University of Warsaw
@@ -53,3 +51,7 @@ PI: [Jan Winczorek PhD](www.janwin.info), University of Warsaw
 Main investigator: Karol Muszyński PhD, University of Warsaw
 
 project's website: http://ddp.wpia.uw.edu.pl
+
+The research is sponsored by [Polish National Science Centre](https://www.ncn.gov.pl/), UMO-2016/21/B/HS5/00397.
+
+Funding: 644,309 PLN (ca. 150,000 EUR)
