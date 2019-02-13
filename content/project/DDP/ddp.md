@@ -13,7 +13,7 @@ summary = "University of Warsaw"
 tags = ["access to justice"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://ddp.wpia.uw.edu.pl"
+external_link = ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -51,3 +51,5 @@ Sponsored by National Science Centre
 PI: Jan Winczorek PhD, University of Warsaw
 
 Main investigator: Karol Muszyński PhD, University of Warsaw
+
+http://ddp.wpia.uw.edu.pl
