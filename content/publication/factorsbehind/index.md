@@ -36,7 +36,7 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = [laborlawpolicy]
+projects = ["laborlawpolicy"]
 
 # Links (optional).
 url_pdf = "http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.desklight-1f78e641-e014-4c78-9215-5c9c008ae736/c/Prakseologia158_t1_2016_s323_359.pdf"
