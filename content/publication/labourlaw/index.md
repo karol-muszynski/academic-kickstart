@@ -2,7 +2,7 @@
 title = "Labour law violations as innovations"
 
 # Date first published.
-date = "2013-07-01"
+date = "2018"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 # authors = ["Karol Muszynski"]
@@ -19,8 +19,8 @@ date = "2013-07-01"
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Przeglad Socjologiczny*"
-publication_short = "In *ICA*"
+publication = "*Przeglad Socjologiczny* 67(3), pp. 9-34."
+publication_short = "In *Przegląd Socjologiczny*"
 
 # Abstract and optional shortened version.
 # abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
