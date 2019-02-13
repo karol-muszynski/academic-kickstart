@@ -55,5 +55,4 @@ project's website: http://ddp.wpia.uw.edu.pl
 
 >>
 The research is sponsored by [Polish National Science Centre](https://www.ncn.gov.pl/), UMO-2016/21/B/HS5/00397.
-
 Funding: 644,309 PLN (ca. 150,000 EUR)
