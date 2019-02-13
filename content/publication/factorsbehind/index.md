@@ -1,6 +1,5 @@
 +++
-title = "Factors behind the growth of civil law contracts as employment contracts in Poland – a study of labour law violations
-"
+title = "Factors behind the growth of civil law contracts as employment contracts in Poland – a study of labour law violations"
 
 # Date first published.
 date = "2016-01-01"
