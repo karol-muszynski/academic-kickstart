@@ -5,7 +5,7 @@ title = "Labour law violations"
 date = "2013-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Karol", "Muszynski"]
+authors = ["Karol Muszynski"]
 
 # Publication type.
 # Legend:
@@ -19,12 +19,12 @@ authors = ["Karol", "Muszynski"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Przeglad Socjologiczny*. You may use *Markdown* for italics etc."
+publication = "*Przeglad Socjologiczny*"
 publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
-abstract_short = "A short version of the abstract."
+# abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
+# abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -39,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/my-paper-name.pdf"
+url_pdf = "http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.desklight-b99ddde4-7e57-43d5-a650-24968ed8b482/c/01-Karol_Muszynski.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
