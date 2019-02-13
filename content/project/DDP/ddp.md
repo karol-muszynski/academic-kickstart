@@ -10,7 +10,7 @@ summary = "access to justice project"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = [""]
+tags = ["access to justice"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
