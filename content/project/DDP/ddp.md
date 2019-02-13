@@ -6,11 +6,11 @@ title = "Barriers to justice among SMEs"
 date = 2018-12-20T00:00:00
 
 # Project summary to display on homepage.
-summary = "University of Warsaw"
+summary = "access to justice project"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["access to justice"]
+tags = [""]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -44,12 +44,12 @@ url_code = ""
   focal_point = ""
 +++
 
-Sponsored by National Science Centre
+The research is sponsored by National Science Centre.
 
-2017 - now
+This is a project focused on access to justice among Polish small and medium enterprises.
 
 PI: Jan Winczorek PhD, University of Warsaw
 
 Main investigator: Karol Muszyński PhD, University of Warsaw
 
-http://ddp.wpia.uw.edu.pl
+project's website: http://ddp.wpia.uw.edu.pl
