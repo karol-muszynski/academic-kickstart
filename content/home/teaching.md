@@ -14,7 +14,7 @@ weight = 60
 
 +++
 
-List of publications
+List of publications>
 Muszyński, Karol. 2018. <a href="http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.desklight-b99ddde4-7e57-43d5-a650-24968ed8b482">Labour law violations as innovations in Central Eastern European countries</a>, "Przegląd Socjologiczny", 67(3), pp. 9-34.
 >
 
