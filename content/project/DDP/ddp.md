@@ -1,19 +1,19 @@
 +++
 # Project title.
-title = "Energy Positioning: Control and Economics"
+title = "Barriers to justice among SMEs"
 
 # Date this page was created.
 date = 2018-12-20T00:00:00
 
 # Project summary to display on homepage.
-summary = "University of Washington"
+summary = "University of Warsaw"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Energy Storage", "Optimization", "Control", "Economics", "Electricity Markets"]
+tags = ["access to justice"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "http://ddp.wpia.uw.edu.pl"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -44,10 +44,10 @@ url_code = ""
   focal_point = ""
 +++
 
-Sponsored by DOE ARPA-E GENI Program
+Sponsored by National Science Centre
 
-2012.03 - 2015.05
+2017 - now
 
-PI: Prof. Daniel Kirschen, University of Washington
+PI: Jan Winczorek PhD, University of Warsaw
 
-Co-PI: Prof. Ian Hiskens, University of Michigan
+Main investigator: Karol Muszyński PhD, University of Warsaw
