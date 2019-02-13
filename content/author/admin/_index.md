@@ -32,12 +32,12 @@ interests = [
   year = 2018
 
 [[education.courses]]
-  course = "MA in French and European commercial lawn Law cum lude"
+  course = "MA in French and European commercial law"
   institution = "University of Poitiers"
   year = 2014
 
 [[education.courses]]
-  course = "MA in history cum laude"
+  course = "MA in history"
   institution = "University of Warsaw"
   year = 2014
   
@@ -90,4 +90,4 @@ I am currently an assistant professor at the [Faculty of Law and Administration,
 
 I am also a board member for [Kalecki Foundation](http://www.kalecki.org) and a research fellow for [Centre for Legal Education and Social Theory](http://clest.pl)
 
-My CV is here. 
+I have a CV. 
