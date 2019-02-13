@@ -39,13 +39,19 @@ interests = [
 [[education.courses]]
   course = "MA in history cum laude"
   institution = "University of Warsaw"
-  year = 2012
+  year = 2014
   
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "MA in law cum laude"
+  institution = "University of Warsaw"
+  year = 2013
 
+[[education.courses]]
+  course = "BA in history cum laude"
+  institution = "University of Warsaw"
+  year = 2010
+  
+  
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -54,7 +60,7 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:muszynskikarol@gmail.com".
+  link = "mailto:muszynskikarol@gmail.com".
 
 [[social]]
   icon = "twitter"
@@ -80,7 +86,7 @@ interests = [
 
 +++
 
-I am currently an assistant professor at the Faculty of Law and Administration, University of Warsaw. 
+I am currently an assistant professor at the [Faculty of Law and Administration, University of Warsaw](http://inopip.wpia.uw.edu.pl/katedra-filozofii-prawa-i-nauki-o-panstwie/). 
 
 I am also a board member for [Kalecki Foundation](http://www.kalecki.org) and a research fellow for [Centre for Legal Education and Social Theory](http://clest.pl)
 
