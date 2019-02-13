@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Prakseologia* 158, pp. 323-359"
-publication_short = "In *Prakseologia*"
+publication_short = "*Prakseologia* 158, pp. 323-359"
 
 # Abstract and optional shortened version.
 abstract = "The article summarises the data on the use of civil law contracts (CLCs) as employment contracts, as well as the findings of other research on the segmentation of the Polish labour market and attempts to conceptualise the role, dynamics and distribution of the illegal use of CLCs. Polish labour market belongs to the most segmented in the OECD countries. The rise of CLCs is alarming since they are particularly unfavourable for the employees. The incidence of CLCs concluded with a violation of labour law, i.e. in a situation in which Labour Code contract should be formally concluded, has increased rapidly after the economic crisis. The article divides the reasons behind this into structural (unclear labour law notions, employment protection regulations, the construction of the tax wedge, the bargaining power of the employees, the weakness of the Labour Inspectorate, and the overall low respect for the law) and time-specific issues (economic uncertainty after the economic crisis, the growth of temporary work agencies, minimum wage policy, as well as the conceptual crisis within the labour law doctrine and jurisprudence regarding the core notions of the labour law). The article argues that CLCs serve as a method of a minimal formalisation of relations between an employer and an employee that fall between informal employment and Labour Code contracts."
