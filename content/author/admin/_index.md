@@ -10,7 +10,7 @@ role = "Assistant professor"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Department of Theory of Law and State, Faculty of Law and Administration, University of Warsaw", url = "http://inopip.wpia.uw.edu.pl/katedra-filozofii-prawa-i-nauki-o-panstwie/" } ]
+organizations = [ { name = "Department of Theory of Law and State, Faculty of Law and Administration, University of Warsaw", url = "http://inopip.wpia.uw.edu.pl/katedra-filozofii-prawa-i-nauki-o-panstwie/" },{ name = "Kalecki Foundation", url = "http://www.kalecki.org" }, { name = "Centre for Social and Legal Theory, University of Wroclaw", url = "http://www.clest.pl/" }]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Assistant professor at the Faculty of Law and Administration, University of Warsaw"
