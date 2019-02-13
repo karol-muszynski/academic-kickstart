@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Barriers to justice among SMEs"
+title = "Barriers of access to law in small and medium enterprises in Poland"
 
 # Date this page was created.
 date = 2018-12-20T00:00:00
 
 # Project summary to display on homepage.
-summary = "access to justice project"
+summary = "This is a project focused on access to justice among Polish SMEs."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -46,9 +46,9 @@ url_code = ""
 
 The research is sponsored by National Science Centre.
 
-This is a project focused on access to justice among Polish small and medium enterprises.
+The project intends to identify the barriers to using law in doing business experienced by Polish small and medium enterprises. The research will provide a diagnosis of justiciable problems experienced by SMEs, patterns of their resolution, and explain why SMEs do not use the law in all circumstances where this is feasible. The project will therefore have both an exploratory and explanatory aspect.
 
-PI: Jan Winczorek PhD, University of Warsaw
+PI: [Jan Winczorek PhD](www.janwin.info), University of Warsaw
 
 Main investigator: Karol Muszyński PhD, University of Warsaw
 
