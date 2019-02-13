@@ -1,11 +1,11 @@
 +++
-title = "Labour law violations"
+title = "Labour law violations as innovations"
 
 # Date first published.
 date = "2013-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Karol Muszynski"]
+# authors = ["Karol Muszynski"]
 
 # Publication type.
 # Legend:
