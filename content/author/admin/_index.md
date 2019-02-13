@@ -33,7 +33,7 @@ interests = [
 
 [[education.courses]]
   course = "MA in French and European commercial lawn Law cum lude"
-  institution = "<a href="http://droit.univ-poitiers.fr/">University of Poitiers</a>
+  institution = "<a href="http://droit.univ-poitiers.fr/">University of Poitiers</a>"
   year = 2014
 
 [[education.courses]]
