@@ -1,8 +1,8 @@
 +++
-title = "Labour law violations as innovations"
+title = "Labour law violations as innovations in Central Eastern European countries"
 
 # Date first published.
-date = "2018"
+date = "2018-12-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 # authors = ["Karol Muszynski"]
@@ -23,7 +23,7 @@ publication = "*Przeglad Socjologiczny* 67(3), pp. 9-34."
 publication_short = "In *Przegląd Socjologiczny*"
 
 # Abstract and optional shortened version.
-# abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
+abstract = "The paper analyses secondary data from Czech, Hungarian, Polish, and Slovak (Central Eastern European Countries – CEECs) labor inspectorate reports to argue that the prevalence and patterns of labor law violations should be understood as a result of adaptations/innovations undertaken by firms in CEECs that use them to strategically lower labor law costs and make employment conditions more flexible. The paper is informed by dependent market economy theory from the varieties of capitalism approach. The main comparative advantage of dependent market economies lies in low labor costs. The spread and pattern of violations suggest that firms use labor law violations in a creative way to enhance their competitive advantage. It is enabled by an ineffective labor standards monitoring system. The possibility to circumvent and violate specific employment regulations to lower labor costs should be treated as an element of the institutional comparative advantage of CEECs. The paper also suggests that governments in CEECs partially promote labor law violations through “drift policies”."
 # abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
@@ -67,4 +67,3 @@ caption = "My caption 😄"
 
 +++
 
-Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
