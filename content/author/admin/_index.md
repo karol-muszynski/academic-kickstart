@@ -82,6 +82,6 @@ interests = [
 
 I am currently an assistant professor at the Faculty of Law and Administration, University of Warsaw. 
 
-I am also a board member for [Kalecki Foundation](www.kalecki.org)
+I am also a board member for [Kalecki Foundation](http://www.kalecki.org) and a research fellow for [Centre for Legal Education and Social Theory](http://clest.pl)
 
 My CV is here. 
