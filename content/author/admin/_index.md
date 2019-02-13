@@ -33,7 +33,7 @@ interests = [
 
 [[education.courses]]
   course = "MA in French and European commercial lawn Law cum lude"
-  institution = "[University of Poitiers](https://www.google.com)"
+  institution = "University of Poitiers"
   year = 2014
 
 [[education.courses]]
@@ -81,5 +81,7 @@ interests = [
 +++
 
 I am currently an assistant professor at the Faculty of Law and Administration, University of Warsaw. 
+
+I am also a board member for [Kalecki Foundation](www.kalecki.org)
 
 My CV is here. 
