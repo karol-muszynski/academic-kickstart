@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Labor law policy after the economic crisis in Poland. Labor market segmentation and labor law violations"
+title = ""
 
 # Date this page was created.
 # date = 2018-12-20T00:00:00
