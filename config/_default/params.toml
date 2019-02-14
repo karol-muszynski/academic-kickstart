@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "muszynskikarol@gmail.com"
 phone = "+48 793 114 756"
-address = "Collegium Iuridicum I, Faculty of Law and Administration, Krakowskie Przedmieście 26/28, Warsaw, Poland"
+address = "Collegium Iuridicum I, Faculty of Law and Administration, Krakowskie Przedmieście 26 / 28, Warsaw, Poland"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 # office_hours = """Monday 10:00 to 13:00<br>
