@@ -13,7 +13,7 @@ role = "Assistant professor"
 organizations = [ { name = "Department of Theory of Law and State, Faculty of Law and Administration, University of Warsaw", url = "http://inopip.wpia.uw.edu.pl/katedra-filozofii-prawa-i-nauki-o-panstwie/" }]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Assistant professor at the Faculty of Law and Administration, University of Warsaw"
+# bio = "Assistant professor at the Faculty of Law and Administration, University of Warsaw"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
