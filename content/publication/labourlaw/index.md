@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Przeglad Socjologiczny* 67(3), pp. 9-34."
-publication_short = "In *Przegląd Socjologiczny*"
+publication_short = "In *Przegląd Socjologiczny* 67(3), pp. 9-34."
 
 # Abstract and optional shortened version.
 abstract = "The paper analyses secondary data from Czech, Hungarian, Polish, and Slovak (Central Eastern European Countries – CEECs) labor inspectorate reports to argue that the prevalence and patterns of labor law violations should be understood as a result of adaptations/innovations undertaken by firms in CEECs that use them to strategically lower labor law costs and make employment conditions more flexible. The paper is informed by dependent market economy theory from the varieties of capitalism approach. The main comparative advantage of dependent market economies lies in low labor costs. The spread and pattern of violations suggest that firms use labor law violations in a creative way to enhance their competitive advantage. It is enabled by an ineffective labor standards monitoring system. The possibility to circumvent and violate specific employment regulations to lower labor costs should be treated as an element of the institutional comparative advantage of CEECs. The paper also suggests that governments in CEECs partially promote labor law violations through “drift policies”."
@@ -36,7 +36,7 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
+projects = ["laborlawpolicy"]
 
 # Links (optional).
 url_pdf = "http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.desklight-b99ddde4-7e57-43d5-a650-24968ed8b482/c/01-Karol_Muszynski.pdf"
