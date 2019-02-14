@@ -85,9 +85,7 @@ interests = [
 #   link = "files/cv.pdf"
 
 +++
-
-
-
+<br/>
 
 I am currently an assistant professor at the [Faculty of Law and Administration, University of Warsaw](http://inopip.wpia.uw.edu.pl/katedra-filozofii-prawa-i-nauki-o-panstwie/). 
 
