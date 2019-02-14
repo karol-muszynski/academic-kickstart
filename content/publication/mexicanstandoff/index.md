@@ -5,7 +5,7 @@ title = "Mexican Standoff"
 date = "2018-09-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-# authors = ["Karol Muszynski", "Michał Stambulski"]
+authors = ["Karol Muszynski", "Michał Stambulski"]
 
 # Publication type.
 # Legend:
