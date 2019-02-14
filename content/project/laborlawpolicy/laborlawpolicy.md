@@ -3,7 +3,7 @@
 title = "Labor law policy after the economic crisis in Poland. Labor market segmentation and labor law violations"
 
 # Date this page was created.
-date = 2018-12-20T00:00:00
+# date = 2018-12-20T00:00:00
 
 # Project summary to display on homepage.
 summary = "This is a project focused on violations and circumventions of labor law after the economic crisis."
@@ -44,7 +44,7 @@ url_code = ""
   focal_point = ""
 +++
 
-The project to analyse what happened on Polish labor market after the outbreak of the economic crisis.
+The project intends to analyse what happened on Polish labor market after the outbreak of the economic crisis. It's focus is on labor law violations and circumventions, such as use of non-standard contracts.
 
 PI: Karol Muszyński PhD, University of Warsaw
 
