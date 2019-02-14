@@ -23,11 +23,12 @@ interests = [
   "Sociology of law",
   "Labour law and labour market",
   "Access to justice"
+  "Varieties of capitalism"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Law cum laude"
+  course = "PhD in law cum laude"
   institution = "University of Warsaw"
   year = 2018
 
@@ -46,10 +47,6 @@ interests = [
   institution = "University of Warsaw"
   year = 2013
 
-[[education.courses]]
-  course = "BA in history cum laude"
-  institution = "University of Warsaw"
-  year = 2010
   
   
 # Social/Academic Networking
