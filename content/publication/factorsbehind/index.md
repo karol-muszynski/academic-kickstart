@@ -51,7 +51,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "html", url = "http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.desklight-1f78e641-e014-4c78-9215-5c9c008ae736"}]
+url_custom = [{name = "HTML", url = "http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.desklight-1f78e641-e014-4c78-9215-5c9c008ae736"}]
 
 # Does the content use math formatting?
 math = true
