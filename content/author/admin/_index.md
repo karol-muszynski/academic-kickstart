@@ -22,7 +22,7 @@ email = ""
 interests = [
   "Sociology of law",
   "Labour law and labour market",
-  "Access to justice"
+  "Access to justice",
   "Varieties of capitalism"
 ]
 
