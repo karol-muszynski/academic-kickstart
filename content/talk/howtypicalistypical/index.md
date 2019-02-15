@@ -48,7 +48,7 @@ url_slides = "https://drive.google.com/open?id=1ZB1hCmFds5vFHALpGB0h5OU7lFJ0Gykn
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["laborpolicy"]
+projects = ["laborlawpolicy"]
 
 # Links (optional).
 url_pdf = "https://drive.google.com/open?id=1ZB1hCmFds5vFHALpGB0h5OU7lFJ0Gykn"
