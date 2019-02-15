@@ -7,16 +7,16 @@ authors = []
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2030-06-01T13:00:00
-time_end = 2030-06-01T15:00:00
+time_start = 2018-11-26
+#   time_end = 2030-06-01T15:00:00
 all_day = false
 
 # Location of event.
-location = "London, United Kingdom"
+location = "Rzeszów, Poland"
 
 # Name of event and optional event URL.
-event = "Academic Theme Conference"
-event_url = "https://example.org"
+event = "New Forms of Employment. Current Problems and Future Challenges"
+event_url = "http://www.labourlaw.ur.edu.pl/en/new-forms-of-employment/"
 
 # Abstract. What's your talk about?
 abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
@@ -48,7 +48,7 @@ url_slides = ""
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["internal-project"]
+projects = ["labor policy"]
 
 # Links (optional).
 url_pdf = ""
