@@ -3,7 +3,7 @@
 widget = "talks"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Recent & Upcoming Talks"
+title = "Conferences"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -16,7 +16,7 @@ count = 10
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view = 2
+view = 1
 
 # Exclude talks that are shown in the Featured Talks widget?
 exclude_featured = false
