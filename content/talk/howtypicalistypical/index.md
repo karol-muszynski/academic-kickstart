@@ -51,8 +51,8 @@ url_slides = "https://drive.google.com/open?id=1ZB1hCmFds5vFHALpGB0h5OU7lFJ0Gykn
 projects = ["labor policy"]
 
 # Links (optional).
-url_pdf = ""
-url_video = ""
+url_pdf = "https://drive.google.com/open?id=1ZB1hCmFds5vFHALpGB0h5OU7lFJ0Gykn"
+url_video = "https://www.youtube.com"
 url_code = ""
 
 # Featured image
