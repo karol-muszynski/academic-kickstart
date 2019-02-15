@@ -16,7 +16,7 @@ count = 10
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view = 1
+view = 2
 
 # Exclude talks that are shown in the Featured Talks widget?
 exclude_featured = false
