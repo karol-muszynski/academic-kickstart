@@ -2,7 +2,7 @@
 title = "Factors behind the growth of civil law contracts as employment contracts in Poland – a study of labour law violations"
 
 # Date first published.
-date = "2016-01-01"
+date = "2016-10-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 # authors = ["Karol Muszynski"]
