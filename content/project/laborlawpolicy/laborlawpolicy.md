@@ -48,7 +48,6 @@ The project intends to analyse what happened on Polish labor market after the ou
 
 PI: Karol Muszyński PhD, University of Warsaw
 
+<br/>
 
-The research is sponsored by [Polish National Science Centre](https://www.ncn.gov.pl/), UMO-2015/19/N/HS5/01227.
-
-Funding: 44,322 PLN (ca. 11,000 EUR)
+The research is sponsored by [Polish National Science Centre](https://www.ncn.gov.pl/), UMO-2015/19/N/HS5/01227. Funding: 44,322 PLN (ca. 11,000 EUR)
