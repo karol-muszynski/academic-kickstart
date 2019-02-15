@@ -7,7 +7,7 @@ authors = ["Karol Muszyński"]
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-11-26T15:00:00
+time_start = 2018-11-26
 #   time_end = 2030-06-01T15:00:00
 all_day = false
 
