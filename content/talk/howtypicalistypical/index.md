@@ -1,9 +1,9 @@
 +++
-title = "Example Talk"
+title = "How typical is typical? Violations and circumventions of employment regulations in Central Eastern Europe"
 date = 2017-01-01T00:00:00  # Schedule page publish date (not talk date).
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["Karol Muszyński]
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -19,7 +19,7 @@ event = "New Forms of Employment. Current Problems and Future Challenges"
 event_url = "http://www.labourlaw.ur.edu.pl/en/new-forms-of-employment/"
 
 # Abstract. What's your talk about?
-abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract = "The paper intends to show that."
 
 # Summary. An optional shortened abstract.
 summary = "An example talk using Academic's Markdown slides feature."
@@ -40,7 +40,7 @@ tags = []
 slides = "example-slides"
 
 # Optional filename of your slides within your talk folder or a URL.
-url_slides = ""
+url_slides = "https://drive.google.com/open?id=1ZB1hCmFds5vFHALpGB0h5OU7lFJ0Gykn"
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
