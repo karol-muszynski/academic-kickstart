@@ -9,7 +9,7 @@ authors = ["Karol Muszyński"]
 #   End time can optionally be hidden by prefixing the line with `#`.
 time_start = 2018-11-26
 #   time_end = 2030-06-01T15:00:00
-all_day = false
+all_day = true
 
 # Location of event.
 location = "Rzeszów, Poland"
