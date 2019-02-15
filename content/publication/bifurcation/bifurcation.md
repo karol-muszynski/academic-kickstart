@@ -2,7 +2,7 @@
 title = "Bifurcation of working time. The idea and its fate in Poland"
 
 # Date first published.
-date = "2016-01-01"
+date = "2015-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 # authors = ["Karol Muszynski"]
