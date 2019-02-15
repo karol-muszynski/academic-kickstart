@@ -19,7 +19,7 @@ event = "New Forms of Employment. Current Problems and Future Challenges"
 event_url = "http://www.labourlaw.ur.edu.pl/en/new-forms-of-employment/"
 
 # Abstract. What's your talk about?
-abstract = "The paper intends to show that."
+abstract = ""
 
 # Summary. An optional shortened abstract.
 summary = "An example talk using Academic's Markdown slides feature."
@@ -52,7 +52,7 @@ projects = ["laborlawpolicy"]
 
 # Links (optional).
 url_pdf = "https://drive.google.com/open?id=1ZB1hCmFds5vFHALpGB0h5OU7lFJ0Gykn"
-url_video = "https://www.youtube.com"
+url_video = ""
 url_code = ""
 
 # Featured image
@@ -65,15 +65,3 @@ url_code = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Right"
 +++
-
-{{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Academic's *Slides* feature and link using `url_slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
