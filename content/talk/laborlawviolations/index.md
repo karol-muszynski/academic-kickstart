@@ -1,6 +1,6 @@
 +++
 title = "Labor law violations as innovations in a dependent market economy"
-date = 2017-01-01T00:00:00  # Schedule page publish date (not talk date).
+date = 2017-10-27T00:00:00  # Schedule page publish date (not talk date).
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Karol Muszyński"]
