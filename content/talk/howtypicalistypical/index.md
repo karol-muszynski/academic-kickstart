@@ -1,6 +1,6 @@
 +++
 title = "How typical is typical? Violations and circumventions of employment regulations in Central Eastern Europe"
-date = 2017-01-01T00:00:00  # Schedule page publish date (not talk date).
+date = 2018-11-26T00:00:00  # Schedule page publish date (not talk date).
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Karol Muszyński"]
