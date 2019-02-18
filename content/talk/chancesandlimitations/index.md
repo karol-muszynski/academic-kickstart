@@ -1,6 +1,6 @@
 +++
 title = "Chances and limitations of normalisation of non-standard employment. The case of Poland"
-date = 2017-01-01T00:00:00  # Schedule page publish date (not talk date).
+date = 2017-06-05T00:00:00  # Schedule page publish date (not talk date).
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Karol Muszyński"]
