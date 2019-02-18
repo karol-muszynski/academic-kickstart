@@ -52,7 +52,7 @@ projects = ["laborlawpolicy"]
 
 # Links (optional).
 url_pdf = "https://drive.google.com/open?id=1ZB1hCmFds5vFHALpGB0h5OU7lFJ0Gykn"
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=_8k_bzGDzls&feature=youtu.be&t=2797"
 url_code = ""
 
 # Featured image
