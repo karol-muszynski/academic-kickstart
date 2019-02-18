@@ -1,6 +1,6 @@
 +++
 title = "Blurring the boundaries. Labor law science and jurisprudence versus crisis of labor in Poland"
-date = 2017-01-01T00:00:00  # Schedule page publish date (not talk date).
+date = 2017-04-27T00:00:00  # Schedule page publish date (not talk date).
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Karol Muszyński"]
