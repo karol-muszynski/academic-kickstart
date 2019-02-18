@@ -1,6 +1,6 @@
 +++
 title = "Access to justice of small and medium enterprises at the periphery. Is law a source or an answer to uncertainty? [with: J. Winczorek]"
-date = 2017-01-01T00:00:00  # Schedule page publish date (not talk date).
+date = 2017-09-12T00:00:00  # Schedule page publish date (not talk date).
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Karol Muszyński", "Jan Winczorek"]
