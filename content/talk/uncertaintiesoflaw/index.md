@@ -1,6 +1,6 @@
 +++
 title = "Uncertainties of law and laws of uncertainty. Polish SMEs on using law in business [with: J. Winczorek]"
-date = 2017-01-01T00:00:00  # Schedule page publish date (not talk date).
+date = 2018-09-11T00:00:00  # Schedule page publish date (not talk date).
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Karol Muszyński", "Jan Winczorek"]
