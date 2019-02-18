@@ -3,14 +3,14 @@
 widget = "talks"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Conferences"
+title = "Recent conference presentations"
 subtitle = ""
 
 # Order that this section will appear in.
 weight = 30
 
 # Number of talks to list.
-count = 10
+count = 5
 
 # View.
 #   1 = List
