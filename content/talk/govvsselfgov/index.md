@@ -1,13 +1,13 @@
 +++
 title = "Government versus self- governments in Poland. Outline of research in progress"
-date = 2017-01-07T00:00:00  # Schedule page publish date (not talk date).
+date = 2017-01-15T00:00:00  # Schedule page publish date (not talk date).
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Karol Muszyński"]
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2017-01-07
+time_start = 2017-01-15
 #   time_end = 2030-06-01T15:00:00
 all_day = true
 
@@ -51,7 +51,7 @@ url_slides = ""
 projects = ["selfgovernments"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://drive.google.com/open?id=165WEgYNjXxnTzh4tzQKJaA2uXV89roNe"
 url_video = ""
 url_code = ""
 
