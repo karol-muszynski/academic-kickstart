@@ -29,7 +29,7 @@ interests = [
 # List qualifications (such as academic degrees)
 [[education.courses]]
   course = "PhD in law cum laude"
-  institution = "[University of Warsaw](www.uw.edu.pl)"
+  institution = [University of Warsaw](www.uw.edu.pl)
   year = 2018
 
 [[education.courses]]
