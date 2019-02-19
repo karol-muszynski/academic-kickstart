@@ -10,7 +10,7 @@ subtitle = ""
 weight = 30
 
 # Number of talks to list.
-count = 5
+count = 3
 
 # View.
 #   1 = List
