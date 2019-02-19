@@ -48,10 +48,10 @@ url_slides = ""
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["laborlawpolicy"]
+projects = ["selfgovernments"]
 
 # Links (optional).
-url_pdf = "https://drive.google.com/file/d/0B9Tss25CNNmYclc4UkNKam1vbUU/view"
+url_pdf = ""
 url_video = ""
 url_code = ""
 
