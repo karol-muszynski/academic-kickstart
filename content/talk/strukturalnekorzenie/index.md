@@ -51,7 +51,7 @@ url_slides = ""
 projects = ["selfgovernments"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://drive.google.com/open?id=1Hb57HO60Q8yMzVor23YUgFku_pIA2Cth"
 url_video = ""
 url_code = ""
 
