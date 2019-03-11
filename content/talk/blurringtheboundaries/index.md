@@ -40,7 +40,7 @@ tags = []
 slides = "example-slides"
 
 # Optional filename of your slides within your talk folder or a URL.
-url_slides = "https://drive.google.com/open?id=1ZB1hCmFds5vFHALpGB0h5OU7lFJ0Gykn"
+url_slides = "https://drive.google.com/open?id=1ITnRjGjkpNkVxDHSSJ05lRvN8XXjPPt8"
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
@@ -51,7 +51,7 @@ url_slides = "https://drive.google.com/open?id=1ZB1hCmFds5vFHALpGB0h5OU7lFJ0Gykn
 projects = ["laborlawpolicy"]
 
 # Links (optional).
-url_pdf = "https://drive.google.com/open?id=1m8ZI3P4KP1cUxErw566K-U22GgK4xWtT"
+url_pdf = "https://drive.google.com/open?id=1ITnRjGjkpNkVxDHSSJ05lRvN8XXjPPt8"
 url_video = ""
 url_code = ""
 
