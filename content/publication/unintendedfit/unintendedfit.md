@@ -2,7 +2,7 @@
 title = "The emergence of unintended fit and the theory of gradual institutional change: a case study of Polish employment regulations and post-crisis public policies"
 
 # Date first published.
-date = "2015-01-01"
+date = "2019-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 # authors = ["Karol Muszynski"]
