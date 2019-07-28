@@ -51,7 +51,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "HTML", url = "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.ekon-element-000171559317"}, {name = "DOI", url = "doi: 10.15678/ZP.2019.47.1.03"}]
+url_custom = [{name = "HTML", url = "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.ekon-element-000171559317"}, {name = "DOI", url = "https://doi.org/10.15678/ZP.2019.47.1.03"}]
 
 
 # Does the content use math formatting?
