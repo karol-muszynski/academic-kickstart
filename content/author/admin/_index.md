@@ -87,4 +87,6 @@ interests = [
 
 I am currently an assistant professor at the [Faculty of Law and Administration, University of Warsaw](http://www.wpia.uw.edu.pl/), [the Department of Philosophy of Law and State](http://inopip.wpia.uw.edu.pl/katedra-filozofii-prawa-i-nauki-o-panstwie/). I am also a board member for [Kalecki Foundation](http://www.kalecki.org) and a research fellow for [Centre for Legal Education and Social Theory](http://clest.pl).
 
+As of the end of 2019, I am visiting the [European Trade Union Institute](https://www.etui.org).
+
 [My full CV](https://drive.google.com/open?id=1GOX_lxxpxnHr8aQsVrIcU8E-l8OlgSag). 
