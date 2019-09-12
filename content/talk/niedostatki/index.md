@@ -1,5 +1,5 @@
 +++
-title = "Niedostatki konstytucyjnej regulacji samorządów zawodów zaufania publicznego w świetle badań empirycznych"
+title = "Niedostatki konstytucyjnej regulacji samorządów zawodów zaufania publicznego w świetle badań empirycznych [with: Paweł Skuczyński]"
 date = 2019-03-01T00:00:00  # Schedule page publish date (not talk date).
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
