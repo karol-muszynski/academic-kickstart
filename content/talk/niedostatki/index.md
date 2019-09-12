@@ -16,7 +16,7 @@ location = "Warszawa, Poland"
 
 # Name of event and optional event URL.
 event = "XX Konferencja Wydziałowa Wydziału Prawa i Administracji UW, Solidarność i dobro wspólne jako wartości w prawie"
-event_url = ""
+event_url = "http://www.wpia.uw.edu.pl/wp-content/uploads/2019/02/Konferencja-Solidarno%C5%9B%C4%87-Program_I_pop.pdf"
 
 # Abstract. What's your talk about?
 abstract = ""
